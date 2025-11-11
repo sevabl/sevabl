@@ -6,6 +6,8 @@ I am currently affiliated with the [Institute for Consciousness and Dream-Resear
 ### Further Interests
 My interests vary widely, which is also exemplified by short-lived enrolments into Social and Cultural Anthropology as well as Astrology. I also (try) to play sports and sometimes even make music. <br>
 
+While you are here, why not check out my new [notebook](https://github.com/sevabl/Feature-Importance/blob/main/Permutation%20Feature%20Importance%20-%20Bias%20in%20Correlated%20Predictors.ipynb) exploring why using Permutation Feature Importance in correlated predictor variables might not be a good idea!
+
 
 ### Selected Publications
 - Ableidinger, S., Nierwetberg, F., & Holzinger, B. (2022). Dreams and nightmares during the pandemic. *Somnologie, 26*(2), 106-110. <br> \[[journal](https://link.springer.com/article/10.1007/s11818-022-00351-x), [PubMed](https://pubmed.ncbi.nlm.nih.gov/35528045)\]
